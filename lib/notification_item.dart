@@ -1,4 +1,3 @@
-
 class NotificationItem {
   String title;
   String description;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'start_screen.dart';
-import 'themes.dart'; // Импортируем файл с темами
+import 'themes.dart';
 
 void main() {
   runApp(MyApp());
